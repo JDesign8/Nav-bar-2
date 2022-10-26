@@ -1,0 +1,61 @@
+body{
+    width:1500;
+
+}
+
+nav{
+    width: 50%;
+    height:60px;
+    Background-color:grey;
+    margin:auto;
+}
+
+
+ul{
+    list-style:none;
+    text-align:center;
+    background-color: turquoise;
+
+}
+
+li{
+    display:inline-block;
+    padding-top:30px;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+
+p{
+    margin:auto;
+    width:50%;
+    margin-top:30px;
+    text-align:center;
+
+}
+
+body{
+    width:1500;
+
+}
+
+css syntax{
+    height: 1500px;
+    position: relative;
+}
+
+#navbar1{
+    width: 100%;
+    position: fixed;
+    
+}
+
+#navbar2{
+    top: 150px;
+    position: relative;
+}
+
+#navbar3{
+    position: absolute;
+    bottom:150px;
+}
